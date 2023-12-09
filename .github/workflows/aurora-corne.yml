@@ -13,5 +13,5 @@ jobs:
       kconfig: '["CONFIG_ZMK_SLEEP=y"]'
       alphas: '["qwerty"]'
       clipboard: '["mac"]'
-      custom_config: '["#define MIRYOKU_TAP_COLEMAKDH"]'
+      custom_config: '["#define MIRYOKU_EXTRA_COLEMAKDH"]'
       
